@@ -1,0 +1,19 @@
+{
+  "cwd": "/workspaces/etm",
+  "type": [
+    "pwa",
+    "web"
+  ],
+  "name": "etm",
+  "framework": "svelte",
+  "template": "blank",
+  "cssPreProcessor": false,
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
